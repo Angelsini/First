@@ -1,3 +1,0 @@
-Angel,90
-Sini,95
-AngelSini,100
